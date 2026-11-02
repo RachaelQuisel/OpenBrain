@@ -8,10 +8,23 @@ description: |
   available in the current client (often named `capture_thought`; prefixes
   vary by connector). This is a behavioral protocol, not a background hook.
 author: Jared Irish
-version: 1.0.0
+version: 1.0.1
 ---
 
 # Auto-Capture
+
+## Purpose in plain English
+
+This skill helps you save the decisions and important next actions from a completed session to Open Brain when requested.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 ## Problem
 

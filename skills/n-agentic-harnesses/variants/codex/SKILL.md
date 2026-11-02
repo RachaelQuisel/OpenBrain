@@ -1,5 +1,6 @@
 ---
 name: n-agentic-harnesses-codex
+version: 1.0.1
 description: Designs, evaluates, and improves agentic harnesses for developer tools, assistants, workflow runtimes, copilots, and AI-powered products. Applies when work involves defining or reviewing tool-use architecture, permissions, workflow state, durability, context and memory systems, evaluation strategy, observability, user experience, or phased implementation plans for an agentic system.
 metadata:
   priority: 6
@@ -86,6 +87,19 @@ metadata:
 ---
 
 # N Agentic Harnesses For Codex
+
+## Purpose in plain English
+
+This skill helps you design and review the controls that help a Codex-based assistant carry out work reliably.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 Use this skill as a router for designing, building, and evaluating agentic harnesses.
 

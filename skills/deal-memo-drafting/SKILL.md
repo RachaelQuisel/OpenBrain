@@ -8,10 +8,23 @@ description: |
   outputs, and supporting documents. Optional Open Brain search and capture can pull
   prior context and store the final memo or recommendation summary.
 author: Nate B. Jones
-version: 1.0.0
+version: 1.0.1
 ---
 
 # Deal Memo Drafting
+
+## Purpose in plain English
+
+This skill helps you turn research and supporting documents into a structured investment or partnership memo.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 ## Problem
 

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "repository": "RachaelQuisel/OpenBrain",
+  "packages": [],
+  "skills": [
+    {
+      "path": "skills/auto-capture/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "446467b331008d72470d242a66764cc99822749c2d144145ccc5ee7e35382d29",
+      "source": "skills/auto-capture/SKILL.md",
+      "guide": "skills/auto-capture/README.md"
+    },
+    {
+      "path": "skills/autodream-brain-sync/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "7eabb4df59ace17fbd02b0b3695855abdccd174708dd0ea8db7cc6e766b207bf",
+      "source": "skills/autodream-brain-sync/SKILL.md",
+      "guide": "skills/autodream-brain-sync/README.md"
+    },
+    {
+      "path": "skills/claudeception/SKILL.md",
+      "version": "2.0.1",
+      "sha256": "802a7f8c891655bd5c12c42d2c71011859b023360c5c4f544c22686b5418adae",
+      "source": "skills/claudeception/SKILL.md",
+      "guide": "skills/claudeception/README.md"
+    },
+    {
+      "path": "skills/competitive-analysis/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "fa0a9c9c59b279c7602456886b068de10bd5e51425e58dddd839aef264598b12",
+      "source": "skills/competitive-analysis/SKILL.md",
+      "guide": "skills/competitive-analysis/README.md"
+    },
+    {
+      "path": "skills/deal-memo-drafting/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "38039e123188daa213ef5b1d81bbe7240f553b6503f3461f008e1de1ad4e2130",
+      "source": "skills/deal-memo-drafting/SKILL.md",
+      "guide": "skills/deal-memo-drafting/README.md"
+    },
+    {
+      "path": "skills/financial-model-review/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "f61feae697970a05a1059974be241b3b8da62114f79a12309e3c562ada72b3fb",
+      "source": "skills/financial-model-review/SKILL.md",
+      "guide": "skills/financial-model-review/README.md"
+    },
+    {
+      "path": "skills/heavy-file-ingestion/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "6a0b2f8152735ddfce77df00936be3fc6aa70e431b6b63c788468a1f28610973",
+      "source": "skills/heavy-file-ingestion/SKILL.md",
+      "guide": "skills/heavy-file-ingestion/README.md"
+    },
+    {
+      "path": "skills/heavy-file-ingestion/variants/claude-code/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "74f8aaef7442de9c1450e84b804f15b9fde43724569ffb55e5e0f3533f762068",
+      "source": "skills/heavy-file-ingestion/variants/claude-code/SKILL.md",
+      "guide": "skills/heavy-file-ingestion/variants/claude-code/README.md"
+    },
+    {
+      "path": "skills/heavy-file-ingestion/variants/claude-desktop/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "a05fb0e5ac0ea00cf008ff64b697d33b17da64c5d15d9d7a0335527c2142c053",
+      "source": "skills/heavy-file-ingestion/variants/claude-desktop/SKILL.md",
+      "guide": "skills/heavy-file-ingestion/variants/claude-desktop/README.md"
+    },
+    {
+      "path": "skills/heavy-file-ingestion/variants/codex/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "a17eb0e8b4c7f8ffe242ca3940848f747ae9d22ac73765bcc951661d0d8c8e74",
+      "source": "skills/heavy-file-ingestion/variants/codex/SKILL.md",
+      "guide": "skills/heavy-file-ingestion/variants/codex/README.md"
+    },
+    {
+      "path": "skills/meeting-synthesis/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "54281f7ea9ff5f5b142afa3b5dddced439bc73a42953fb1e7a49921c51d3fb4f",
+      "source": "skills/meeting-synthesis/SKILL.md",
+      "guide": "skills/meeting-synthesis/README.md"
+    },
+    {
+      "path": "skills/n-agentic-harnesses/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "f420ac522872b7d0899db53f4f016db608d24e4e06b615fd7563f096e94e0ba4",
+      "source": "skills/n-agentic-harnesses/SKILL.md",
+      "guide": "skills/n-agentic-harnesses/README.md"
+    },
+    {
+      "path": "skills/n-agentic-harnesses/variants/anthropic/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "669ab257ed8e287d1d20113135f7ad0d9688a8eb6ba0eb3a9e6299cb5dd49257",
+      "source": "skills/n-agentic-harnesses/variants/anthropic/SKILL.md",
+      "guide": "skills/n-agentic-harnesses/variants/anthropic/README.md"
+    },
+    {
+      "path": "skills/n-agentic-harnesses/variants/codex/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "85970351558e4bbd923062b6dd91205969df1bf4d2b7da03dbc809c08783c274",
+      "source": "skills/n-agentic-harnesses/variants/codex/SKILL.md",
+      "guide": "skills/n-agentic-harnesses/variants/codex/README.md"
+    },
+    {
+      "path": "skills/panning-for-gold/SKILL.md",
+      "version": "2.0.1",
+      "sha256": "5ca47064353781a9124fc7b3acd0f56b9bc7048b9cecc75a407f24340cb4d43d",
+      "source": "skills/panning-for-gold/SKILL.md",
+      "guide": "skills/panning-for-gold/README.md"
+    },
+    {
+      "path": "skills/research-synthesis/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "afefae37f65332bab3bdbc1deb227bebfa47469f5a5c79bd5c5418d1714a4511",
+      "source": "skills/research-synthesis/SKILL.md",
+      "guide": "skills/research-synthesis/README.md"
+    },
+    {
+      "path": "skills/weekly-signal-diff/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "e0fd004be8e8787d5947767ed7e479ebfc056529dbe38638c34cac0542fe855e",
+      "source": "skills/weekly-signal-diff/SKILL.md",
+      "guide": "skills/weekly-signal-diff/README.md"
+    },
+    {
+      "path": "skills/work-operating-model/SKILL.md",
+      "version": "1.0.1",
+      "sha256": "7ad34112766099cf766c64fdd0a7cde5cee0e8e9d17f08df658678e42432e9dc",
+      "source": "skills/work-operating-model/SKILL.md",
+      "guide": "skills/work-operating-model/README.md"
+    }
+  ],
+  "copies": []
+}

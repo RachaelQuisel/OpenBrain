@@ -1,11 +1,24 @@
 ---
 name: n-agentic-harnesses
-description: Design, evaluate, and improve agentic harnesses for developer tools, assistants, workflow runtimes, copilots, and AI-powered products. Use when work involves tool-use architecture, permissions, approval gates, workflow state, durability, context and memory systems, evaluation strategy, observability, operator visibility, or phased implementation plans for an AI system. Trigger when symptoms imply harness gaps too: stale context, surprising tool calls, sessions that die on crash, missing approval controls, or costs spiraling without clear visibility.
+description: "Design, evaluate, and improve agentic harnesses for developer tools, assistants, workflow runtimes, copilots, and AI-powered products. Use when work involves tool-use architecture, permissions, approval gates, workflow state, durability, context and memory systems, evaluation strategy, observability, operator visibility, or phased implementation plans for an AI system. Trigger when symptoms imply harness gaps too: stale context, surprising tool calls, sessions that die on crash, missing approval controls, or costs spiraling without clear visibility."
 author: Jonathan Edwards
-version: 1.0.0
+version: 1.0.1
 ---
 
 # N Agentic Harnesses
+
+## Purpose in plain English
+
+This skill helps you design the controls around an assistant's work so its tools, permissions, progress, and recovery can be checked.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 ## Problem
 

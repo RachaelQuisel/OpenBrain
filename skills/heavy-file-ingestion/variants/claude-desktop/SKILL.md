@@ -2,10 +2,23 @@
 name: heavy-file-ingestion-claude-desktop
 description: Use in Claude Desktop when a user asks to read, analyze, summarize, or extract from a heavyweight file such as PDF, DOCX, PPTX, XLSX, CSV, or TSV. Avoid raw ingestion of bulky files. Ask for a converted markdown or CSV artifact first, or give the user exact conversion commands to run outside Claude Desktop.
 author: Nate B. Jones
-version: 1.0.0
+version: 1.0.1
 ---
 
 # Heavy File Ingestion For Claude Desktop
+
+## Purpose in plain English
+
+This skill helps you prepare a large document or spreadsheet for analysis using a converted copy in Claude Desktop.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 ## Problem
 

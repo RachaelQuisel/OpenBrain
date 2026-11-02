@@ -8,10 +8,23 @@ description: |
   Codex) and across all devices. Trigger on: memory saves, autodream, dreaming, "remember",
   "save to memory", or any write to the .claude/projects/*/memory/ directory.
 author: rumbitopi
-version: 1.0.0
+version: 1.0.1
 ---
 
 # Autodream Brain Sync
+
+## Purpose in plain English
+
+This skill helps you copy explicitly saved local memories to Open Brain so they can be used by connected assistants.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 ## Problem
 

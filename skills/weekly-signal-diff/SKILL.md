@@ -10,10 +10,23 @@ description: |
   search upgrade: if OpenRouter access is available, prefer the Perplexity
   Sonar family for fresh web-grounded retrieval with citations.
 author: Jonathan Edwards
-version: 1.0.0
+version: 1.0.1
 ---
 
 # Weekly Signal Diff
+
+## Purpose in plain English
+
+This skill helps you review recent developments in a chosen market and explain what changed in relation to your interests.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 ## Problem
 

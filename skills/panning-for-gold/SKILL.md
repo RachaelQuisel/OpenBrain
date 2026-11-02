@@ -2,10 +2,23 @@
 name: panning-for-gold
 description: Use when processing voice transcripts, brain dumps, stream-of-consciousness notes, or any raw multi-topic capture. Extracts every idea thread, then evaluates each one with deep brainstorming, then captures results to Open Brain. Trigger on transcripts, exports, "process this", "pan for gold", "brain dump", "what did I say", or multi-topic markdown files.
 author: Jared Irish
-version: 2.0.0
+version: 2.0.1
 ---
 
 # Panning for Gold
+
+## Purpose in plain English
+
+This skill helps you separate a rough conversation or collection of notes into ideas, examine them, and save the useful results.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 ## Overview
 

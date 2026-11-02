@@ -2,10 +2,23 @@
 name: claudeception
 description: "Continuous learning system that extracts reusable knowledge from work sessions. Triggers: (1) /claudeception command, (2) 'save this as a skill' or 'extract a skill from this', (3) 'what did we learn?', (4) after non-obvious debugging or trial-and-error discovery. Creates new skills when valuable reusable knowledge is identified. Integrates with Open Brain to prevent duplicates."
 author: Jared Irish
-version: 2.0.0
+version: 2.0.1
 ---
 
 # Claudeception
+
+## Purpose in plain English
+
+This skill helps you turn useful lessons from a work session into reusable guidance or skills.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 A continuous learning system that extracts reusable knowledge from work sessions and
 codifies it into new skills. This enables autonomous improvement over time.
